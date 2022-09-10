@@ -1,2 +1,1 @@
-# Machine-Learning-and-Artificial-Intelligence
-Demonstration of the mini-lab component activities conducted for the course Machine Learning and Artificial Intelligence (19CCE213).
+Demonstration of the mini-lab component activities conducted for the course Machine Learning and Artificial Intelligence (19CCE213). It introduces mathematical methods for the design of machine learning algorithms and provides an overview of the cluster analysis process and cluster quality evaluation techniques. Also, it enables the design and performance evaluation of classifiers for typical classification problems and the design of frequent itemset mining systems that are typical to solve market-basket analysis problems.
